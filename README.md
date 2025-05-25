@@ -1,9 +1,9 @@
 # WeatherWizard
-WeatherWizard is an intelligent weather forecasting tool designed to clean and prepare real-world weather data. It predicts temperature, understands **natural language queries**, and provides users with up-to-date weather information.
+WeatherWizard is an intelligent weather forecasting tool designed to clean and prepare real-world weather data. It predicts temperature, understands **natural language queries**, and provides users with up-to-date weather information. This project is showcased within a [Jupyter Notebook presentation](https://github.com/ClassicCollins/WeatherWizard/blob/classic/presentation.ipynb)
 
 ## Features
-- **Natural Language Processing (NLP)** for weather queries
-- **Machine Learning Models** for temperature forecasting
+- [**Natural Language Processing (NLP)**](https://github.com/ClassicCollins/WeatherWizard/blob/classic/nlp.py) for weather queries
+- [**Machine Learning Models**](https://github.com/ClassicCollins/WeatherWizard/blob/classic/ml_model.py) for temperature forecasting
 - **Interactive Widgets** for easy input in Jupyter Notebooks
 - **Exploratory Data Analysis (EDA)** for deeper insights
 - **Multi-city weather support**
@@ -32,7 +32,7 @@ Enhancements & Future Improvements
 - Agentic AI (LangChain Agents) to call weather functions dynamically and improve context
 
 License
-This project is licensed under the MIT License
+This project is licensed under the [MIT License](https://github.com/ClassicCollins/WeatherWizard/blob/classic/LICENSE)
 
 WeatherWizard—making weather forecasting smarter!
 
