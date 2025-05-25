@@ -29,7 +29,7 @@ Enhancements & Future Improvements
 - Cached results to reduce API calls and improve performance
 - Handling vague phrases like "this weekend"
 - AI-powered misspelling corrections (e.g., "Lonodn" → "London")
-- Agentic AI (LangChain Agents) to call weather functions dynamically
+- Agentic AI (LangChain Agents) to call weather functions dynamically and improve context
 
 License
 This project is licensed under the MIT License
