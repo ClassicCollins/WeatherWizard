@@ -1,6 +1,6 @@
 # WeatherWizard
 WeatherWizard is an intelligent weather forecasting tool designed to clean and prepare real-world weather data. It predicts temperature, understands **natural language queries**, and provides users with up-to-date weather information. This project is summarized and showcased within a [Jupyter Notebook presentation](https://github.com/ClassicCollins/WeatherWizard/blob/classic/presentation.ipynb) . You can explore detailed coding by clicking on each feature's link below.
-
+<a id="readme-top"></a>
 ## Features
 - [**Exploratory Data Analysis (EDA)**](https://github.com/ClassicCollins/WeatherWizard/blob/classic/eda.ipynb) for deeper insights
 - [**Machine Learning Models**](https://github.com/ClassicCollins/WeatherWizard/blob/classic/ml_model.py) for temperature forecasting
@@ -33,9 +33,11 @@ conda install --file requirements.txt
 - AI-powered misspelling corrections (e.g., "Lonodn" → "London")
 - More robust [Agentic AI (LangChain Agents)](https://github.com/ClassicCollins/WeatherWizard/blob/classic/agentic_ai.py) to call weather functions dynamically and improve context and user experience
 
+<!-- LICENCE -->
 ## License
-This project is licensed under the [MIT License](https://github.com/ClassicCollins/WeatherWizard/blob/classic/LICENSE)
-
+* `MIT` This project is licensed under the [MIT License](https://github.com/ClassicCollins/WeatherWizard/blob/classic/LICENSE)
+  
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 WeatherWizard—making weather forecasting smarter!
   - @ClassicCollins 2025
 
