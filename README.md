@@ -2,7 +2,6 @@
 # WeatherWizard
 WeatherWizard is an intelligent weather forecasting tool designed to clean and prepare real-world weather data. It predicts temperature, understands **natural language queries**, and provides users with up-to-date weather information. This project is summarized and showcased within a [Jupyter Notebook presentation](https://github.com/ClassicCollins/WeatherWizard/blob/classic/presentation.ipynb) . You can explore detailed coding by clicking on each feature's link below.
 ![Product Name Screen Shot][product-screenshot]
-[product-screenshot]: image/screenshot.png
 
 ## Features
 - [**Exploratory Data Analysis (EDA)**](https://github.com/ClassicCollins/WeatherWizard/blob/classic/eda.ipynb) for deeper insights
@@ -47,3 +46,6 @@ WeatherWizard—making weather forecasting smarter!
 ## Acknoledgement
 - **Python**
 - **[Open-meteo API](https://open-meteo.com/)**
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[product-screenshot]:screenshot.png
