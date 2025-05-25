@@ -20,23 +20,25 @@ If using Anaconda, run:
 ```bash
 conda install --file requirements.txt
 ```
-Usage
+## Usage
 1. Import the necessary modules
-2. Interactive Weather Query in Jupyter Notebook
+2. Enter a city and dates to forecast the temperature using trained model
+3. Interactive Weather Query in Jupyter Notebook
 
-Enhancements & Future Improvements
+## Suggested Enhancements & Future Improvements
 - World cities database as a fallback if spaCy misses city detection
 - Hourly temperature predictions for more granular forecasting
 - Cached results to reduce API calls and improve performance
 - Handling vague phrases like "this weekend"
 - AI-powered misspelling corrections (e.g., "Lonodn" → "London")
-- [Agentic AI (LangChain Agents)](https://github.com/ClassicCollins/WeatherWizard/blob/classic/agentic_ai.py) to call weather functions dynamically and improve context
+- More robust [Agentic AI (LangChain Agents)](https://github.com/ClassicCollins/WeatherWizard/blob/classic/agentic_ai.py) to call weather functions dynamically and improve context and user experience
 
-License
+## License
 This project is licensed under the [MIT License](https://github.com/ClassicCollins/WeatherWizard/blob/classic/LICENSE)
 
 WeatherWizard—making weather forecasting smarter!
+  - @ClassicCollins 2025
 
-Acknoledgement
+## Acknoledgement
 - **Python**
 - **[Open-meteo API](https://open-meteo.com/)**
