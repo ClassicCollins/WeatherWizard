@@ -1,12 +1,13 @@
 # WeatherWizard
-WeatherWizard is an intelligent weather forecasting tool designed to clean and prepare real-world weather data. It predicts temperature, understands **natural language queries**, and provides users with up-to-date weather information. This project is showcased within a [Jupyter Notebook presentation](https://github.com/ClassicCollins/WeatherWizard/blob/classic/presentation.ipynb)
+WeatherWizard is an intelligent weather forecasting tool designed to clean and prepare real-world weather data. It predicts temperature, understands **natural language queries**, and provides users with up-to-date weather information. This project is summarized and showcased within a [Jupyter Notebook presentation](https://github.com/ClassicCollins/WeatherWizard/blob/classic/presentation.ipynb) . You can explore detailed coding by clicking on each feature's link below.
 
 ## Features
 - [**Natural Language Processing (NLP)**](https://github.com/ClassicCollins/WeatherWizard/blob/classic/nlp.py) for weather queries
 - [**Machine Learning Models**](https://github.com/ClassicCollins/WeatherWizard/blob/classic/ml_model.py) for temperature forecasting
-- **Interactive Widgets** for easy input in Jupyter Notebooks
 - **Exploratory Data Analysis (EDA)** for deeper insights
-- **Multi-city weather support**
+- [**Agentic AI**](https://github.com/ClassicCollins/WeatherWizard/blob/classic/agentic_ai.py) enables deep contextual understanding of NLP-based weather queries.
+- **Interactive Widgets** for easy input in Jupyter Notebooks. However, a fallback option is available if this does not display properly.
+- **Multi-city weather support** features robust functions such as `get_weather_info` and `fetch_weather_data` which accept multiple cities as input.
 
 ## Installation
 
@@ -37,5 +38,5 @@ This project is licensed under the [MIT License](https://github.com/ClassicColli
 WeatherWizard—making weather forecasting smarter!
 
 Acknoledgement
-**Python**
-**openweatherAPI**
+- **Python**
+- **[Open-meteo API](https://open-meteo.com/)**
