@@ -15,12 +15,12 @@ WeatherWizard is an intelligent weather forecasting tool designed to clean and p
 
 <!-- INSTALLATION -->
 ## Installation:
-It's advisable to create a virtual enviroment:
+Creating a virtual environment is recommended:
 
 ```bash
 python -m venv myenv
 ```
-Activate it On windows:
+Activate it on windows:
 
 ```bash
 myenv\Scripts\activate
@@ -41,7 +41,7 @@ conda install --file requirements.txt
 ```
 ## Usage
 1. Import the necessary modules
-2. Enter a city and dates to forecast the temperature using trained model
+2. Enter a valid city and dates to download the weather data and forecast the temperature using trained model
 3. Interactive Weather Query in Jupyter Notebook
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
