@@ -61,7 +61,7 @@ conda install --file requirements.txt
 WeatherWizard—making weather forecasting smarter!
   - @ClassicCollins 2025
 
-## Acknoledgement
+## Acknowledgement
 - **Python**
 - **[Open-meteo API](https://open-meteo.com/)**
 
