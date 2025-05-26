@@ -20,7 +20,7 @@ Creating a virtual environment is recommended:
 ```bash
 python -m venv myenv
 ```
-Activate it on windows:
+Activate it on Windows:
 
 ```bash
 myenv\Scripts\activate
