@@ -1,7 +1,7 @@
 <a id="readme-top"></a>
 # WeatherWizard
 WeatherWizard is an intelligent weather forecasting tool designed to clean and prepare real-world weather data. It predicts temperature, understands **natural language queries**, and provides users with up-to-date weather information. This project is summarized and showcased within a [Jupyter Notebook presentation](https://github.com/ClassicCollins/WeatherWizard/blob/classic/presentation.ipynb) . You can explore detailed coding by clicking on each feature's link below.
-<p align="center">![Product Name Screen Shot][product-screenshot]
+<p align="center">![Product Name Screen Shot][product-screenshot]</p>
 
 ## Features
 - [**Exploratory Data Analysis (EDA)**](https://github.com/ClassicCollins/WeatherWizard/blob/classic/eda.ipynb) for deeper insights
@@ -10,9 +10,23 @@ WeatherWizard is an intelligent weather forecasting tool designed to clean and p
 - [**Agentic AI**](https://github.com/ClassicCollins/WeatherWizard/blob/classic/agentic_ai.py) enables deep contextual understanding of NLP-based weather queries.
 - **Interactive Widgets** for easy input in Jupyter Notebooks. However, a fallback option is available if this does not display properly.
 - **Multi-city weather support** features robust functions such as `get_weather_info` and `fetch_weather_data` which accept multiple cities as input.
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 ## Installation
+It's advisable to create a virtual enviroment:
 
+```bash
+python -m venv myenv
+```
+Activate it On windows:
+
+```bash
+myenv\Scripts\activate
+```
+Activate it on macOS/Linux:
+
+```bash
+source myenv/bin/activate
+```
 Ensure you have the required dependencies installed:
 
 ```bash
