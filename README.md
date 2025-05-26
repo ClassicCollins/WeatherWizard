@@ -12,9 +12,9 @@ WeatherWizard is an intelligent weather forecasting tool designed to clean and p
 - **Interactive Widgets** for easy input in Jupyter Notebooks. However, a fallback option is available if this does not display properly.
 - **Multi-city weather support** features robust functions such as `get_weather_info` and `fetch_weather_data` which accept multiple cities as input.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- INSTALLATION -->
 ## Installation:
-
 It's advisable to create a virtual enviroment:
 
 ```bash
