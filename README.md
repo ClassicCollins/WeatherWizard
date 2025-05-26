@@ -46,11 +46,11 @@ conda install --file requirements.txt
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Suggested Enhancements & Future Improvements
-- World cities database as a fallback if spaCy misses city detection
-- Hourly temperature predictions for more granular forecasting
-- Cached results to reduce API calls and improve performance
-- Handling vague phrases like "this weekend"
-- AI-powered misspelling corrections (e.g., "Lonodn" → "London")
+- **World cities database** as a fallback if spaCy misses city detection
+- **Hourly temperature predictions** for more granular forecasting
+- **Cached results** to reduce API calls and improve performance
+- **Handling vague phrases** like "this weekend"
+- **AI-powered** misspelling corrections (e.g., "Lonodn" → "London")
 - More robust [Agentic AI (LangChain Agents)](https://github.com/ClassicCollins/WeatherWizard/blob/classic/agentic_ai.py) to call weather functions dynamically and improve context and user experience
 
 <!-- LICENCE -->
