@@ -30,6 +30,14 @@ Activate it on macOS/Linux:
 ```bash
 source myenv/bin/activate
 ```
+Clone the repo (You can install the dependacies one by one or use requirements.txt):
+```bash
+git clone https://github.com/ClassicCollins/WeatherWizard.git
+```
+```bash
+cd WeatherWizard
+```
+
 Ensure you have the required dependencies installed:
 
 ```bash
